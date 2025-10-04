@@ -1,4 +1,4 @@
-#  Mission**
+#  Mission
 
 **Headline:**
 🎯 *Our Mission – Turning Ideas into Scalable Ventures*
@@ -14,7 +14,7 @@ We exist because we believe that great ideas deserve more than just execution—
 **Closing Line:**
 Our mission drives everything we do: **to co-create products and ventures that succeed and scale beyond imagination.**
 
-# Vision**
+# Vision
 
 **Headline:**
 🌍 *Our Vision – Building the Next Generation of Digital Ventures*
