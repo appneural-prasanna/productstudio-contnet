@@ -300,6 +300,13 @@ We don’t just deliver projects — we help build **businesses that scale, thri
 This section should appear **at the bottom of your homepage**, visually striking with clear buttons. It is your **final push** to convert visitors into **partners, leads, or clients**, and reinforces your **Build-Invest-Grow philosophy**.
 
 
+Here’s your entry in **GitHub Markdown (MD) table format** 👇
+
+```markdown
+| **Project** | **Task Description** | **Task Type** | **Status** |
+:---|--------------|----------------------|----------------|-------------|
+| HR Policy & SOP Documentation | Created and organized HR Standard Operating Procedure (SOP) files and folders in GitHub under the following categories: **Core HR Administration SOPs**, **Talent Acquisition & Onboarding SOPs**, **Employee Management & Development SOPs**, **Compensation, Benefits & Payroll SOPs**, and **Compliance, Employee Relations & Offboarding SOPs**. | Documentation / Process Setup | ✅ Completed |
+```
 
 
 
